@@ -1,0 +1,6 @@
+data/
+*.csv
+*.zip
+*.pdf
+__pycache__/
+.DS_Store
