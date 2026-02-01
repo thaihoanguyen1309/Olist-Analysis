@@ -11,7 +11,7 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 * **Dữ liệu:** 100,000 đơn hàng thực tế từ năm 2016 - 2018 tại Brazil.
 * **Vấn đề:** Olist có lượng khách hàng khổng lồ nhưng chưa có chiến lược tiếp thị riêng biệt cho từng nhóm, dẫn đến chi phí Ads cao nhưng hiệu quả giữ chân khách hàng (Retention) chưa tối ưu.
 
-### 2. Task (Nhiệm vụ)
+### 2. Task - Nhiệm vụ
 * **Phân khúc:** Sử dụng mô hình RFM (Recency, Frequency, Monetary) để định danh các nhóm khách hàng.
 * **Gợi ý:** Xây dựng hệ thống Hybrid Recommendation giúp gợi ý đúng sản phẩm, đúng phân khúc.
 
