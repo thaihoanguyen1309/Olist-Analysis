@@ -5,7 +5,7 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 
 ---
 
-## 🏗️ Cấu trúc dự án theo mô hình S.T.A.R.
+## 🏗️ Cấu trúc dự án theo mô hình S.T.A.R
 
 ### 1. Situation (Bối cảnh)
 * **Dữ liệu:** 100,000 đơn hàng thực tế từ năm 2016 - 2018 tại Brazil.
@@ -39,5 +39,5 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 ---
 
 ## 📊 Kết quả Demo
-![DEMO HỆ THỐNG RS](Images\kq.png)
+![DEMO HỆ THỐNG RS](https://github.com/thaihoanguyen1309/Olist-Analysis/blob/main/Images/kq.png)
 ## 👉 [https://drive.google.com/drive/folders/1GfE_vmKSdH2sVLqLbxXIka9292G3tlYs?usp=sharing]
