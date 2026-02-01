@@ -11,7 +11,7 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 * **Dữ liệu:** 100,000 đơn hàng thực tế từ năm 2016 - 2018 tại Brazil.
 * **Vấn đề:** Olist có lượng khách hàng khổng lồ nhưng chưa có chiến lược tiếp thị riêng biệt cho từng nhóm, dẫn đến chi phí Ads cao nhưng hiệu quả giữ chân khách hàng (Retention) chưa tối ưu.
 
-### 2. Task - Nhiệm vụ
+### 2. Task (Nhiệm vụ)
 * **Phân khúc:** Sử dụng mô hình RFM (Recency, Frequency, Monetary) để định danh các nhóm khách hàng.
 * **Gợi ý:** Xây dựng hệ thống Hybrid Recommendation giúp gợi ý đúng sản phẩm, đúng phân khúc.
 
@@ -20,7 +20,7 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 * **Feature Engineering:** Tính toán bộ chỉ số RFM và xử lý độ lệch (Skewness) bằng Log Transformation.
 * **Machine Learning:** - Sử dụng thuật toán **K-Means Clustering** để phân cụm.
     - Tìm số cụm tối ưu qua **Elbow Method** và **Silhouette Score**:
-    ![Biểu đồ Elbow và Silhouette](Images\image-1.png)
+    ![Biểu đồ Elbow và Silhouette](Images\elbow_silhouette.png)
 * **Recommendation System:** - Xây dựng **Item-Item Collaborative Filtering** bằng ma trận thưa (Sparse Matrix) để tối ưu RAM.
     - Phát triển cơ chế **Hybrid Filter** (Lọc theo sở thích cá nhân + Đặc trưng phân cụm).
 
@@ -39,5 +39,5 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 ---
 
 ## 📊 Kết quả Demo
-![DEMO HỆ THỐNG RS](Images\image.png)
+![DEMO HỆ THỐNG RS](Images\kq.png)
 ## 👉 [https://drive.google.com/drive/folders/1GfE_vmKSdH2sVLqLbxXIka9292G3tlYs?usp=sharing]
