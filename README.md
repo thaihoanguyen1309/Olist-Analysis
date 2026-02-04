@@ -20,7 +20,7 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 * **Feature Engineering:** Tính toán bộ chỉ số RFM và xử lý độ lệch (Skewness) bằng Log Transformation.
 * **Machine Learning:** - Sử dụng thuật toán **K-Means Clustering** để phân cụm.
     - Tìm số cụm tối ưu qua **Elbow Method** và **Silhouette Score**:
-    ![Biểu đồ Elbow và Silhouette](Images\elbow_silhouette.png)
+    ![Biểu đồ Elbow và Silhouette](https://github.com/thaihoanguyen1309/Olist-Analysis/blob/main/Images/elbow_silhouette.png)
 * **Recommendation System:** - Xây dựng **Item-Item Collaborative Filtering** bằng ma trận thưa (Sparse Matrix) để tối ưu RAM.
     - Phát triển cơ chế **Hybrid Filter** (Lọc theo sở thích cá nhân + Đặc trưng phân cụm).
 
@@ -39,5 +39,5 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 ---
 
 ## 📊 Kết quả Demo
-![DEMO HỆ THỐNG RS](Images\kq.png)
+![DEMO HỆ THỐNG RS](https://github.com/thaihoanguyen1309/Olist-Analysis/blob/main/Images/kq.png)
 ## 👉 [https://drive.google.com/drive/folders/1GfE_vmKSdH2sVLqLbxXIka9292G3tlYs?usp=sharing]
