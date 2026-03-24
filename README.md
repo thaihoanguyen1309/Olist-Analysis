@@ -1,5 +1,5 @@
 # Olist Customer Segmentation & Hybrid Recommendation System 🚀
-
+Dataset: https://drive.google.com/drive/folders/1AHGOGnyTkEi8tRE0IfuPcEPu-tUPVwkK?usp=sharing
 ## 📌 Tổng quan dự án (Overview)
 Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (Sàn TMĐT lớn nhất Brazil) và xây dựng hệ thống gợi ý sản phẩm cá nhân hóa. Kết quả hỗ trợ đội ngũ Marketing tối ưu hóa chiến dịch quảng cáo và giúp đội ngũ Dev cải thiện trải nghiệm người dùng.
 
