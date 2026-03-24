@@ -39,5 +39,5 @@ Dự án tập trung vào việc phân loại 100,000 khách hàng của Olist (
 ---
 
 ## 📊 Kết quả Demo
-![DEMO HỆ THỐNG RS](https://github.com/thaihoanguyen1309/Olist-Analysis/blob/main/Images/kq.png](https://github.com/thaihoanguyen1309/Olist-Analysis/blob/main/Images/kq.jpg)
+![DEMO HỆ THỐNG RS](https://raw.githubusercontent.com/thaihoanguyen1309/Olist-Analysis/main/Images/elbow_silhouette.png)
 ## 👉 [https://drive.google.com/drive/folders/1GfE_vmKSdH2sVLqLbxXIka9292G3tlYs?usp=sharing]
